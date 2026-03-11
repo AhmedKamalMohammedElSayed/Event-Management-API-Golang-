@@ -152,8 +152,3 @@ This project demonstrates:
 - Rate limiting
 - Refresh tokens
 
----
-
-## License
-
-This project is licensed under the MIT License.
